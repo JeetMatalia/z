@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="eeaeffa2-4404-4ecc-b698-96f1d352c667" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../quiz_app/lib/screens/check_file_2.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zpl/assets/captains/babar.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zpl/assets/captains/balbirnie.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zpl/assets/captains/bavuma.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zpl/assets/captains/butler.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zpl/assets/captains/cp_rizwan.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zpl/assets/captains/edwards.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zpl/assets/captains/erasmus2.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zpl/assets/captains/ervine.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zpl/assets/captains/finch.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zpl/assets/captains/nabi.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zpl/assets/captains/naveed.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zpl/assets/captains/pooran.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zpl/assets/captains/rohit.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zpl/assets/captains/shakib.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zpl/assets/captains/shanaka.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zpl/assets/captains/williamson.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zpl/assets/dashboard/highlights.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zpl/assets/dashboard/history.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zpl/assets/dashboard/live_score.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zpl/assets/dashboard/schedule.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zpl/assets/dashboard/teams.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zpl/assets/dashboard/venues.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zpl/assets/data/ttwenty.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zpl/assets/flags/af.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zpl/assets/flags/au.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zpl/assets/flags/bd.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zpl/assets/flags/eng.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zpl/assets/flags/ie.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zpl/assets/flags/in.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zpl/assets/flags/na.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zpl/assets/flags/nl.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zpl/assets/flags/no_flag.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zpl/assets/flags/nz.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zpl/assets/flags/om.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zpl/assets/flags/pg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zpl/assets/flags/pk.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zpl/assets/flags/sa.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zpl/assets/flags/sc.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zpl/assets/flags/sl.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zpl/assets/flags/uae.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zpl/assets/flags/wi.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zpl/assets/flags/zw.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zpl/assets/history/angelo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zpl/assets/history/butler.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zpl/assets/history/collingwood.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zpl/assets/history/dhoni.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zpl/assets/history/finch.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zpl/assets/history/haddin.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zpl/assets/history/malinga.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zpl/assets/history/sammy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zpl/assets/history/sangakara.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zpl/assets/history/williamson.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zpl/assets/history/younas.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zpl/assets/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zpl/assets/images/bats.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zpl/assets/images/bg.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zpl/assets/images/player_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zpl/assets/images/trophy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zpl/assets/splash.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zpl/assets/venues/adelaide.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zpl/assets/venues/bellerive.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zpl/assets/venues/gabba.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zpl/assets/venues/kardina.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zpl/assets/venues/mcg.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zpl/assets/venues/perth.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zpl/assets/venues/scg.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zpl/lib/screens/history_screen.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zpl/lib/screens/home_screen.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zpl/lib/screens/schedule_screen.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zpl/lib/screens/team_screen.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zpl/lib/screens/venue_screen.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zpl/lib/widgets/my_card.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Profile apk" beforeDir="false" afterPath="$PROJECT_DIR$/../Profile apk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quiz_app/lib/constants.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../quiz_app/lib/constants.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quiz_app/lib/screens/2.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quiz_app/lib/screens/check_file.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../quiz_app/lib/screens/check_file.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quiz_app/lib/screens/home_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../quiz_app/lib/screens/home_screen.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quiz_app/lib/widgets/next_button.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../quiz_app/lib/widgets/next_button.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quiz_app/lib/widgets/option_card.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../quiz_app/lib/widgets/option_card.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quiz_app/lib/widgets/question_widget.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../quiz_app/lib/widgets/question_widget.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../quiz_app/lib/widgets/result_box.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../quiz_app/lib/widgets/result_box.dart" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="main.dart" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lib/main.dart">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2dcUDQ3lgk5nNhbbde1lrHCO3Hy" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <option name="show-excluded-files" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "/Users/ztlab77/Desktop/jeet work/mainapp",
+    "show.migrate.to.gradle.popup": "false"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eeaeffa2-4404-4ecc-b698-96f1d352c667" name="Changes" comment="" />
+      <created>1710306740232</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1710306740232</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+    </layout>
+  </component>
+</project>

@@ -1,0 +1,306 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="NONE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="66ff8cba-67ce-48a3-becd-2bebae713bd7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Material Components/packages/common/lib/utils/utils.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Material Components/packages/common/lib/utils/validations.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Material Components/packages/common/lib/widgets/buttons/auth_buttons.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Material Components/packages/common/lib/widgets/buttons/buttons.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Material Components/packages/common/lib/widgets/buttons/mobile_primary_button.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Material Components/packages/common/lib/widgets/widgets.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Material Components/packages/mainapp_assets/assets/venues/adelaide.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Material Components/packages/mainapp_assets/assets/venues/bellerive.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Material Components/packages/mainapp_assets/assets/venues/gabba.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Material Components/packages/mainapp_assets/assets/venues/kardina.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Material Components/packages/mainapp_assets/assets/venues/mcg.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Material Components/packages/mainapp_assets/assets/venues/perth.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Material Components/packages/mainapp_assets/assets/venues/scg.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/assets_zpl/assets/images/highlights.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/assets_zpl/assets/images/history.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/assets_zpl/assets/images/live_score.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/assets_zpl/assets/images/mcg.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/assets_zpl/assets/images/schedule.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/assets_zpl/assets/images/teams.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages/assets_zpl/assets/images/venues.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../zpl/zpl_mainapp.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Material Components/.idea/libraries/Dart_Packages.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Material Components/.idea/libraries/Dart_Packages.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Material Components/mainapp/lib/widget" beforeDir="false" afterPath="$PROJECT_DIR$/../Material Components/mainapp/lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Material Components/mainapp/lib/widgets/button_widget.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Material Components/mainapp/lib/widgets/image_widget.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Material Components/mainapp/lib/widgets/title_widget.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Material Components/mainapp/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../Material Components/mainapp/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Material Components/packages/common/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../Material Components/packages/common/lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Material Components/packages/common/lib/theme/theme.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../Material Components/packages/common/lib/theme/theme.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Material Components/packages/common/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../Material Components/packages/common/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Material Components/packages/common/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../Material Components/packages/common/pubspec.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Material Components/packages/mainapp_assets/.dart_tool/package_config.json" beforeDir="false" afterPath="$PROJECT_DIR$/../Material Components/packages/mainapp_assets/.dart_tool/package_config.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Profile apk" beforeDir="false" afterPath="$PROJECT_DIR$/../Profile apk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zpl/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zpl/.metadata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zpl/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zpl/analysis_options.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zpl/android/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zpl/android/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zpl/android/app/src/debug/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zpl/android/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zpl/android/app/src/main/kotlin/com/example/zpl/MainActivity.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zpl/android/app/src/main/res/drawable-v21/launch_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zpl/android/app/src/main/res/drawable/launch_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zpl/android/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zpl/android/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zpl/android/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zpl/android/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zpl/android/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zpl/android/app/src/main/res/values-night/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zpl/android/app/src/main/res/values/styles.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zpl/android/app/src/profile/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zpl/android/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zpl/android/gradle.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zpl/android/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zpl/android/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zpl/assets/captains/babar.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zpl/assets/captains/balbirnie.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zpl/assets/captains/bavuma.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zpl/assets/captains/butler.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zpl/assets/captains/cp_rizwan.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zpl/assets/captains/edwards.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zpl/assets/captains/erasmus2.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zpl/assets/captains/ervine.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zpl/assets/captains/finch.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zpl/assets/captains/nabi.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zpl/assets/captains/naveed.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zpl/assets/captains/pooran.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zpl/assets/captains/rohit.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zpl/assets/captains/shakib.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zpl/assets/captains/shanaka.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zpl/assets/captains/williamson.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zpl/assets/dashboard/highlights.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zpl/assets/dashboard/history.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zpl/assets/dashboard/live_score.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zpl/assets/dashboard/schedule.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zpl/assets/dashboard/teams.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zpl/assets/dashboard/venues.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zpl/assets/data/ttwenty.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zpl/assets/flags/af.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zpl/assets/flags/au.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zpl/assets/flags/bd.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zpl/assets/flags/eng.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zpl/assets/flags/ie.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zpl/assets/flags/in.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zpl/assets/flags/na.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zpl/assets/flags/nl.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zpl/assets/flags/no_flag.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zpl/assets/flags/nz.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zpl/assets/flags/om.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zpl/assets/flags/pg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zpl/assets/flags/pk.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zpl/assets/flags/sa.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zpl/assets/flags/sc.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zpl/assets/flags/sl.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zpl/assets/flags/uae.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zpl/assets/flags/wi.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zpl/assets/flags/zw.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zpl/assets/history/angelo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zpl/assets/history/butler.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zpl/assets/history/collingwood.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zpl/assets/history/dhoni.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zpl/assets/history/finch.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zpl/assets/history/haddin.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zpl/assets/history/malinga.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zpl/assets/history/sammy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zpl/assets/history/sangakara.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zpl/assets/history/williamson.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zpl/assets/history/younas.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zpl/assets/icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zpl/assets/images/bats.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zpl/assets/images/bg.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zpl/assets/images/player_icon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zpl/assets/images/trophy.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zpl/assets/splash.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zpl/assets/venues/adelaide.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zpl/assets/venues/bellerive.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zpl/assets/venues/gabba.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zpl/assets/venues/kardina.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zpl/assets/venues/mcg.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zpl/assets/venues/perth.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zpl/assets/venues/scg.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zpl/ios/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zpl/ios/Flutter/AppFrameworkInfo.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zpl/ios/Flutter/Debug.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zpl/ios/Flutter/Release.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zpl/ios/Runner.xcodeproj/project.pbxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zpl/ios/Runner.xcodeproj/project.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zpl/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zpl/ios/Runner.xcodeproj/project.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zpl/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zpl/ios/Runner.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zpl/ios/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zpl/ios/Runner.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zpl/ios/Runner/AppDelegate.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zpl/ios/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zpl/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-1024x1024@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zpl/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zpl/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zpl/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-20x20@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zpl/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zpl/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zpl/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-29x29@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zpl/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zpl/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zpl/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-40x40@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zpl/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zpl/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-60x60@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zpl/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@1x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zpl/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-76x76@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zpl/ios/Runner/Assets.xcassets/AppIcon.appiconset/Icon-App-83.5x83.5@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zpl/ios/Runner/Assets.xcassets/LaunchImage.imageset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zpl/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zpl/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zpl/ios/Runner/Assets.xcassets/LaunchImage.imageset/LaunchImage@3x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zpl/ios/Runner/Assets.xcassets/LaunchImage.imageset/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zpl/ios/Runner/Base.lproj/LaunchScreen.storyboard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zpl/ios/Runner/Base.lproj/Main.storyboard" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zpl/ios/Runner/Info.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zpl/ios/Runner/Runner-Bridging-Header.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zpl/ios/RunnerTests/RunnerTests.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zpl/lib/main.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zpl/lib/screens/history_screen.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zpl/lib/screens/home_screen.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zpl/lib/screens/schedule_screen.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zpl/lib/screens/team_screen.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zpl/lib/screens/venue_screen.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zpl/lib/widgets/my_card.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zpl/linux/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zpl/linux/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zpl/linux/flutter/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zpl/linux/flutter/generated_plugin_registrant.cc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zpl/linux/flutter/generated_plugin_registrant.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zpl/linux/flutter/generated_plugins.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zpl/linux/main.cc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zpl/linux/my_application.cc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zpl/linux/my_application.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zpl/macos/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zpl/macos/Flutter/Flutter-Debug.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zpl/macos/Flutter/Flutter-Release.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zpl/macos/Flutter/GeneratedPluginRegistrant.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zpl/macos/Runner.xcodeproj/project.pbxproj" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zpl/macos/Runner.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zpl/macos/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zpl/macos/Runner.xcworkspace/contents.xcworkspacedata" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zpl/macos/Runner.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zpl/macos/Runner/AppDelegate.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zpl/macos/Runner/Assets.xcassets/AppIcon.appiconset/Contents.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zpl/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_1024.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zpl/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_128.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zpl/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_16.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zpl/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_256.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zpl/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_32.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zpl/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zpl/macos/Runner/Assets.xcassets/AppIcon.appiconset/app_icon_64.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zpl/macos/Runner/Base.lproj/MainMenu.xib" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zpl/macos/Runner/Configs/AppInfo.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zpl/macos/Runner/Configs/Debug.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zpl/macos/Runner/Configs/Release.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zpl/macos/Runner/Configs/Warnings.xcconfig" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zpl/macos/Runner/DebugProfile.entitlements" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zpl/macos/Runner/Info.plist" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zpl/macos/Runner/MainFlutterWindow.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zpl/macos/Runner/Release.entitlements" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zpl/macos/RunnerTests/RunnerTests.swift" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zpl/pubspec.lock" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zpl/pubspec.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zpl/test/widget_test.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zpl/web/favicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zpl/web/icons/Icon-192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zpl/web/icons/Icon-512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zpl/web/icons/Icon-maskable-192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zpl/web/icons/Icon-maskable-512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zpl/web/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zpl/web/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zpl/windows/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zpl/windows/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zpl/windows/flutter/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zpl/windows/flutter/generated_plugin_registrant.cc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zpl/windows/flutter/generated_plugin_registrant.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zpl/windows/flutter/generated_plugins.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zpl/windows/runner/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zpl/windows/runner/Runner.rc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zpl/windows/runner/flutter_window.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zpl/windows/runner/flutter_window.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zpl/windows/runner/main.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zpl/windows/runner/resource.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zpl/windows/runner/resources/app_icon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zpl/windows/runner/runner.exe.manifest" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zpl/windows/runner/utils.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zpl/windows/runner/utils.h" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zpl/windows/runner/win32_window.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../zpl/windows/runner/win32_window.h" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2diEcAKzJaQZXuYitaz6dR1lAOq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "dart.analysis.tool.window.visible": "false",
+    "git-widget-placeholder": "master",
+    "io.flutter.reload.alreadyRun": "true",
+    "last_opened_file_path": "/Users/ztlab77/Desktop/jeet work/Z/packages/assets_zpl/assets/images",
+    "show.migrate.to.gradle.popup": "false"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/packages/assets_zpl/assets/images" />
+      <recent name="$PROJECT_DIR$/packages/zpl_assets/assets" />
+      <recent name="$PROJECT_DIR$/packages/zpl_assets" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/packages/zpl_assets/assets/images" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/zpl/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Flutter.main.dart" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="66ff8cba-67ce-48a3-becd-2bebae713bd7" name="Changes" comment="" />
+      <created>1710482575582</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1710482575582</updated>
+    </task>
+    <servers />
+  </component>
+</project>

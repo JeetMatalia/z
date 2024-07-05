@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "399890284958",
+    "project_id": "onboarding-580e8",
+    "storage_bucket": "onboarding-580e8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:399890284958:android:2420f908bee011ef92168f",
+        "android_client_info": {
+          "package_name": "com.example.onboard_screen"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRvhiZ9V2TM-GuzjeOulVeY42ze7yWWOo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
